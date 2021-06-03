@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the restraint of the consumption of the coyne and bullion of this realme, and the deceitfull making of gold and siluer threed, and for the regulating thereof for the time to come.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13102</idno><idno type="EEBO-CITATION">99892679</idno>
+  <idno type="VID">188196</idno>
+  <idno type="EEBO-PROQUEST">2248561570</idno>
+  
+            <idno type="STC">STC 9052</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[42]</idno>
+            <idno type="STC">ESTC S123855</idno>
+            <idno type="PROQUEST">ocm99892679</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892679e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188196)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the restraint of the consumption of the coyne and bullion of this realme, and the deceitfull making of gold and siluer threed, and for the regulating thereof for the time to come.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>11635 [i.e. 1636]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: ... VVhitehall, the eighteenth day of Ianuary, in the eleuenth yeere of Our reigne.</note>
+                  <note>The dates are given according to Lady Day dating.</note>
+                  <note>Arms 24; Steele notation: consumpti- or 2) impor- 3) said Premisses,.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Precious metals --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188196:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head type="sub">❧ A Proclamation for the restraint of the con<g ref="char:EOLhyphen"/>sumption of the Coyne and Bullion of this Realme, and the deceitfull making of Gold and Siluer Threed, and for the regulating thereof for the time to come.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Auing taken into Our Princely consideration the great consumpti<g ref="char:EOLhyphen"/>on</hi> of the Coyne, Plate, and Bullion of this Kingdome, contrary to the Lawes and Statutes of this Realme, and likewise the many incon<g ref="char:EOLhyphen"/>ueniences which doe arise, and more are like to ensue, aswell by the melting of Our Coynes, as by the false and deceitfull making of Gold and Siluer Threed, Purles, Plates, Spangles, Oaes, and other such like Manufactures, to the great abuse of Our Subiects, and preiudice of Vs in Our Customes, by the exceeding quantities thereof now made within this Our Realme, which formerly were brought from forraigne parts: And purposing for the time to come, that no Coyne or Bullion shall be spent in those Manufactures, but such only as shall be supplyed from forraigne parts, or otherwise arise from the works of that kind formerly made and moulten: And being minded that the deceits and abuses now commonly practised by the workers of Gold and Siluer into such Manufactures should be reformed, and the same workes hereafter made not lesse in finenesse then the Standard of Our Kingdome, and according to the Laws and Statutes thereof; We are resolued for regulating this businesse which so much concer<g ref="char:EOLhyphen"/>neth Vs and Our people, to take care for the prouision of Bullion for supply of the said Manufac<g ref="char:EOLhyphen"/>tures as aforesaid, and for reducing aswell the workers thereof to a conuenient number, as to re<g ref="char:EOLhyphen"/>straine them to some meete proportion of Gold and Siluer to be imployed therein: And for that purpose Wee haue assigned and appointed diuers of Our Priuy Counsell, and others, to bee Our Commissioners, who are to see to the due execution of the Lawes and Statutes of the Realme, against all offenders in the Premisses, and of this present Proclamation, and of all such Orders and Instructions as are, or shall from time to time bee giuen by Vs vnder Our Signe Ma<g ref="char:EOLhyphen"/>nuall, or otherwise by any sixe or more of Our Priuie Counsell, for the better gouerning of the said Trade and Manufactures, and the persons that doe or shall vse the same.</p>
+            <p>And Wee doe therefore publish and declare Our Royall will and pleasure to bee, and doe here<g ref="char:EOLhyphen"/>by straitly charge and command, That no Coyne, Place, or Bullion shall bee hereafter vsed or spent in the making of Gold and Siluer Threed, Copper guilt, or Siluered, Gold and Siluer
+<pb facs="tcp:188196:2"/>
+               <pb facs="tcp:188196:2"/>foliatt, Purles, Oaes, Spangles, Wyer, and such other Manufactures, but what shall be impor<g ref="char:EOLhyphen"/>ted or supplied from forraigne parts by such as shall be thereunto by Vs appointed or which shall arise from the same workes and Manufactures being moulten againe: And that none of the Currant Gold or Siluer Coynes of this Realme be hereafter moulten downe by any Refiner, Goldsmith, or other person whatsoeuer, for any vse whatsoeuer; And that all Gold and Siluer whatsoeuer which hereafter shall be imployed, vsed, or spent, in or about any of the said Manu<g ref="char:EOLhyphen"/>factures, shall be prouided, refined, prepared, and disgrossed by such persons onely as Wee shall assigne, and by none others; And shall be by them sould and deliuered to all and euery person or persons which shall worke or vse the same according to such Standards, and at such Rates and Prizes as We shall limit, at some such certaine place or places within Our City of <hi>London,</hi> or the Liberties thereof, as by Vs, or Our said Commissioners for this businesse shall be assigned in that behalfe; And that no person or persons whatsoeuer, other then such as shall be allowed by Vs, or Our said Commissioners for the time being, and which shall conforme him and them<g ref="char:EOLhyphen"/>selues to the Orders and Instructions of Vs and Our said Commissioners, shall bee permitted to buy, receiue, or take from the persons to be assigned as aforesaid, at such place or places within the said City of <hi>London,</hi> or the Liberties there of as aforesaid, any Gold or Siluer whatsoeuer dis<g ref="char:EOLhyphen"/>grossed or not disgrossed, to bee vsed and imployed in the making of Gold and Siluer Threed, Copper guilt, or Siluered threed, Gold and Siluer foliatt, Purles, Place, Oaes, Spangles and Wyer, or otherwise to be vsed in the making of Lace, Purles, Imbroideries and such like workes and Manufactures; And that no person or persons, (other then such as shall bee allowed as aforesaid) shall directly or indirectly, make, or cause to bee made, any Gold or Siluer Threed, Copper guilt, or Siluered threed, Gold or Siluer foliatt, Purles Plate, Oaes, Spangles, or Wyer, for those or the like vses; Or shall make, erect, set vp, keepe, or vse any Frame, Barre, Engine, In<g ref="char:EOLhyphen"/>strument, Mill, or Toole whatsoeuer, for the disgrossing, drawing, flatting, milling, spinning, or making of any the said Workes: And that no Worker of any Gold or Siluer Threed, shall buy, or prouide, or cause to be bought or prouided, any Silke to be Throwne or Twisted, and made fitting, or shall Throwe or Twift, or cause to bee Throwne or Twisted, any Silke for any the vses or works aforesaid, vpon paine of forfeiture of the same, vnlesse they shall bee thereunto first authorized and appointed by Our said Commissioners.</p>
+            <p>And Our further will and pleasure is, and Wee doe hereby require and command, That all Gold and Siluer Threed, Copper gilt, or Siluered threed, and Wyer, and other the said Ma<g ref="char:EOLhyphen"/>nufactures shall bee well and truely wrought and made; And that all Threed be made vp in Skeynes and not on Quills; And that from henceforth no Copper Siluered, or gilt, bee made or spunne vpon any Silke, and that the said Manufactures (being first duely surueyed and tryed, and also marked with the Makers stampe) shall bee after sealed by a Seale by Vs appointed in that behalfe, to shew the tryall and allowance thereof, before the same bee sold or exposed to sale; And that no Silkeman, Mercer, Lacemaker, Imbroyderer, Buttonmaker, or other per<g ref="char:EOLhyphen"/>son or persons whatsoeuer, shall or may, at any time or times hereafter, buy, sell, vent, or vtter off, from, or to any person or persons whatsoeuer, or worke any Gold or Siluer Threed, Copper gilt, and Siluered threed, Purles, Plate, Spangles, Oaes, Gold or Siluer foliatt, or Wyer, made or wrought within this Our Realme, for any vses whatsoeuer, but such as shall be made or wrought by the persons thereunto allowed by Our said Commissioners, according to Our intention herein declared, whose Names, Markes, and Places of abode are to bee certainely knowne at the place where Our said Commissioners shall appoint for this businesse, (within Our said City of <hi>London,</hi> or the Liberties thereof) for the vttering and venting of the disgrossed or other Bullion as aforesaid. And to the end no fraud or deceit be hereafter practised in the Premisses, by occasion of the quantities of Gold and Siluer threed, Copper gilt, and Siluered threed, Purles, Plate, Spangles, Oaes, or Wyer already made here, or imported from the parts beyond the Seas, and remaining in the hands of Silkemen, Mercers, Lacemakers and others, Wee doe therefore declare Our Royall will and pleasure to bee, and doe hereby straitly charge and command, all and euery Silkemen, Mercers, Lacemakers, Wyer-drawers, Threed makers, and others now having any Gold or Siluer Threed, Copper gilt, and Siluered threed, or other the Premisses in their hands, to be sold or put to sale, that they and euery of them, within the space of foureteene dayes after the publishing hereof, doe send or bring the same to such place or places within Our said City of <hi>London,</hi> or the Liberties thereof, as Our said Commissioners shall ap<g ref="char:EOLhyphen"/>point, there to be tryed, sealed, or marked with the Seale, or Marke hereafter named in that behalfe, without paying any Fee or allowance for the sealing thereof; And that no person or persons whatsoeuer, shall prouide, buy, vtter, sell, or expose to sale any Gold or Siluer Threed, or Copper gilt, or Siluered threed, made, or brought in or from any the parts beyond the Seas, be<g ref="char:EOLhyphen"/>fore the same be viewed, tryed, and sealed by the persons, and at the place to be appointed as afore<g ref="char:EOLhyphen"/>said; And that no person or persons, which at the time of the publishing of this Our Proclama<g ref="char:EOLhyphen"/>tion, shall haue any Bullion, or Wyer, prepared for such works and Manufactures as aforesaid, and not wrought into threed, shall hereafter presume to worke the same into any the Manu<g ref="char:EOLhyphen"/>factures
+<pb facs="tcp:188196:3"/>
+               <pb facs="tcp:188196:3"/>before mentioned, vnlesse such person or persons shall first bring the same to Our said Commissioners to the place aforesaid, to be there tryed, essayed, marked and entred; And then, af<g ref="char:EOLhyphen"/>ter such essay and entry made, the said person and persons conforming themselues to such Or<g ref="char:EOLhyphen"/>ders and Instructions as Wee shall make and set foorth touching the Premisses, shall and may worke out such Bullion and Wyer; And that after the said foureteene dayes before limited for the Sealing and Marking of such Workes and Manufactures as aforesaid, No person or persons whatsoeuer, presume to expose, vtter, vent, buy, sell, imploy, or vse any Gold or Siluer Threed, Copper guilt, and Siluered threed, or other the Workes or Manufactures before mentioned whatsoeuer, not Sealed or Marked as aforesaid.</p>
+            <p>And further, Wee will and require all person and persons whatsoeuer, from henceforth to conforme themselues, in all due obedience, to Our Royall will and pleasure herein declared touching the Premisses, which so much importeth Vs and Our people, vpon paine, not onely of the losse and forfeiture of the said seuerall Manufactures and Materialls, but also to bee further proceeded against, as high Contemners of Our Royall Commands.</p>
+            <p>And We doe hereby will and command, That no Finers, Goldsmiths, Merchants or others, shall hereafter sell any fine Siluer, or other Siluer, to any person or persons, to bee vsed or im<g ref="char:EOLhyphen"/>ployed in any of the Premisses, other then such persons as shall be by Vs assigned and allowed as aforesaid.</p>
+            <p>And We doe hereby further will, require, and command, all Maiors, Sheriffes, Iustices of Peace, Constables, and other Our Officers, Ministers and louing Subiects whatsoeuer, to be ayding and assisting to Our said Commissioners, in the due execution of the Premisses, As they tender Our Pleasure, and will answere the contrary at their perills.</p>
+            <closer>
+               <dateline>Giuen at Our Court at VVhitehall, <date>the eighteenth day of Ianuary, in the Eleuenth yeere of Our Reigne.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_royal_seals">
+            <head>The seuerall Seales appointed by Vs, for the sealing of Gold and Siluer Threed, and Copper gilt, and Siluered threed, are, <hi>Ʋiz.</hi>
+            </head>
+            <list>
+               <item>I. For the right Gold and Siluer Threed already made, <hi>The Thistle crowned.</hi>
+               </item>
+               <item>II. For the Copper gilt and Siluered Threed already made, <hi>A Lion without a crowne.</hi>
+               </item>
+               <item>III. For the Gold and Siluer Threed hereafter to be made, <hi>The Rose crowned.</hi>
+               </item>
+               <item>IIII. For the Copper gilt and Siluered threed hereafter to be made, <hi>The Lion crowned.</hi>
+               </item>
+            </list>
+         </div>
+         <closer>God saue the King.</closer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie: And by the Assignes of IOHN BILL. 1635.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
